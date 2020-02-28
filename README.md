@@ -1,4 +1,4 @@
-# Growth-of-Farmer-s-Market-RVisaualization
+# Growth-of-Farmer-s-Market-RVisualization
 
 Overview:
 The United States Department of Agriculture (USDA) has recognized the importance of farmers markets.Through its many programs, USDA has helped the growth of farmers markets across the country. According to the latest data from the USDA, the number of farmers markets in the United States has grown by 76 percent since 2008. There are now  8,791 markets listed in the USDA's National Farmers Market Directory — that's one market for every 38,000 people. 
