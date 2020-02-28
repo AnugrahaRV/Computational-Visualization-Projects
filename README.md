@@ -19,6 +19,6 @@ The data file contains the following details
 4. Division which contains the nine different divisions of the U.S
 
 Project Objectives:
-1. As a data analyst working for a consulting company, I have generated a detailed report on the growth and evolution of the farmers market in the US
+1. As a data analyst working for a consulting company, I have generated a detailed report on the growth and evolution of the farmers market in the U.S
 2. Used the data to generate visual insights on the geographic, product and payment system distribution of farmers market across the country using RStudio
 3. The aforementioned data does not cover all the key points related to the growth of farmers market. Additional insights outside the data was included in the report
