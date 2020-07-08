@@ -36,8 +36,9 @@ The visualizations were created using Data Wrapper and Flourish
 -> Datawrapper is a user-friendly, open-source web tool that you can use to create basic interactive charts
 -> Flourish is a Beautiful, easy, powerful data visualization & storytelling tool 
 
-## 3) Global Indicators of Growth & Development Dashboard
+## 3) Global Indicators of Growth & Development Dashboard-Project 3
 Compared statistics of international development and showed visual insights on global poverty using Tableau 
+The final dashboard can be found in a Tableau Packaged Workbook (Project 3.twbx) file 
 
 
 
