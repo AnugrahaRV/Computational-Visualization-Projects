@@ -1,7 +1,7 @@
 
-## Visualization Projects 
+# Visualization Projects 
 
-# 1) Growth-of-Farmer-s-Market-RVisualization-Poject 1: 
+## 1) Growth-of-Farmer-s-Market-RVisualization-Poject 1: 
 
 Overview:
 The United States Department of Agriculture (USDA) has recognized the importance of farmers markets.Through its many programs, USDA has helped the growth of farmers markets across the country. According to the latest data from the USDA, the number of farmers markets in the United States has grown by 76 percent since 2008. There are now  8,791 markets listed in the USDA's National Farmers Market Directory — that's one market for every 38,000 people. 
@@ -26,7 +26,7 @@ Project Objectives:
 2. Used the data to generate visual insights on the geographic, product and payment system distribution of farmers market across the country using RStudio
 3. The aforementioned data does not cover all the key points related to the growth of farmers market. Additional insights outside the data was included in the report
 
-# 2) The Topsy Turvy World- Project 2
+## 2) The Topsy Turvy World- Project 2
 Published a data driven journal on google sites displaying 3 positive outcomes of year 2020 with 5 interactive graphs and plots 
 
 Check out the google site in the link below: 
@@ -36,7 +36,7 @@ The visualizations were created using Data Wrapper and Flourish
 -> Datawrapper is a user-friendly, open-source web tool that you can use to create basic interactive charts
 -> Flourish is a Beautiful, easy, powerful data visualization & storytelling tool 
 
-# 3) Global Indicators of Growth & Development Dashboard
+## 3) Global Indicators of Growth & Development Dashboard
 Compared statistics of international development and showed visual insights on global poverty using Tableau 
 
 
